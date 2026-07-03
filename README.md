@@ -1,1 +1,1 @@
-HTML/CSS basics practise project.
+HTML/CSS basics practise project. Made for width: 1166px, height: 2043px.
